@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://user-images.githubusercontent.com/79738875/118758496-5fc8d080-b82c-11eb-816d-66ca79655002.gif" width="25px">
 
 <a href="https://twitter.com/hebertdev1">
   <img align="left" alt="hebert villafuerte | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
